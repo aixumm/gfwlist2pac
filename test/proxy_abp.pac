@@ -3292,6 +3292,7 @@ var rules = [
   "zh.wikipedia.org/wiki/Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96", 
   "zh.m.wikipedia.org", 
   "zh.wikisource.org", 
+  "zh.wikipedia.org*",
   "zh.wikipedia.org*2012%E5%B9%B4%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%85%90%E8%B4%A5%E6%A1%88%E4%BB%B6", 
   "zh.wikipedia.org*2014%E5%B9%B4%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6", 
   "zh.wikipedia.org*512%E5%A4%A7%E5%9C%B0%E9%9C%87", 
